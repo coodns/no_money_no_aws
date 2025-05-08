@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "no-money-no-gwangju"
+name = "no-money-no-aws"
 version = "0.1.0"
 description = "AWS 프리티어 알림 및 예산 관리 시스템"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["coodns mail@chaewoon.me"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
