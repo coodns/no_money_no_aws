@@ -12,6 +12,7 @@
 > if you dont have a permission to create aws budget and etc then you can't use this project as well, and it is not verified that working well, because i dont need to use a freetier :)
 
 <br>
+
 **An infrastructure automation solution that helps you effectively manage your AWS Free Tier period and prevent budget overruns**
 
 ## 🌟 Introduction
