@@ -110,7 +110,7 @@ This project uses AWS CDK to solve the following problems:
    cdk deploy \
      --parameters AccountCreationDate=YYYY-MM-DD \
      --parameters EmailAddress=your-email@example.com \
-     --parameters ExistingUserArn=arn:aws:iam::123456789012:user/username
+     --parameters ExistingUserName=username
    ```
 
 6. **Destroy (if it need)**
